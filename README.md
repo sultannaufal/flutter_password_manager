@@ -2,7 +2,7 @@
 
 My first flutter app. Generate random password then save it on local device.
 Currently only supported on android device and web browser.
-if you want other devices support (Windows, Linux, iOSm macOS), feel free to make a pull request.
+if you want other devices support (Windows, Linux, iOSm macOS), feel free to make pull requests.
 
 ## Getting Started
 
