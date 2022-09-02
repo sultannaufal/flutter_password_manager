@@ -2,7 +2,7 @@
 
 My first flutter app.
 Currently only supported on android device and web browser.
-if you want other devices support (Windows, Linux, iOSm macOS), feel free to make pull requests.
+if you want other devices support (Windows, Linux, iOS, macOS), feel free to make pull requests.
 
 Try the demo [here](https://sultannaufal.github.io/passwordmgr/)
 
